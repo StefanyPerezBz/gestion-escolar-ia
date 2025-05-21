@@ -1,11 +1,11 @@
-# 🏫 Sistema de Gestión Escolar con IA
+# 🏫 Sistema de Gestión Escolar con análisis y predicción usando IA
 
 [![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-url.streamlit.app)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/downloads/)
 [![Open Issues](https://img.shields.io/github/issues/tu-usuario/gestion-escolar-ia)](https://github.com/tu-usuario/gestion-escolar-ia/issues)
 
-Aplicación web inteligente para análisis del rendimiento académico estudiantil con IA.
+Aplicación web inteligente para la gestión académica y la predicción del rendimiento estudiantil mediante IA.
 
 ![Dashboard Preview](/image/dashboard.png)
 

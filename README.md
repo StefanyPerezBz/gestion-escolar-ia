@@ -10,7 +10,7 @@ Aplicación web inteligente para análisis del rendimiento académico estudianti
 ![Dashboard Preview](/image/dashboard.png)
 
 # 📂 Estructura del Proyecto
-
+```bash
 gestion-escolar-ia/
 ├── 📂 image/              # Recursos visuales
 │   ├── dashboard.png      # Captura del dashboard
@@ -19,6 +19,7 @@ gestion-escolar-ia/
 ├── 📜 gestion_escolar.py  # Código principal
 ├── 📜 requirements.txt    # Dependencias
 └── 📜 README.md           # Información
+```
 
 ## ✨ Características Principales
 
@@ -45,9 +46,9 @@ source venv/bin/activate  # Linux/Mac
 - Iniciar la aplicación
 - Cargar datos (ejemplo o archivo CSV)
 - Explorar las pestañas del dashboard:
-  1. 📊 Resumen general
-  2. 📈 Análisis por estudiante
-  3. 🧠 Recomendaciones IA
+   📊 Resumen general
+   📈 Análisis por estudiante
+   🧠 Recomendaciones IA
 - Exportar resultados en CSV
 
 ## 📌 Instalar dependencias e iniciar

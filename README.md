@@ -46,9 +46,9 @@ source venv/bin/activate  # Linux/Mac
 - Iniciar la aplicación
 - Cargar datos (ejemplo o archivo CSV)
 - Explorar las pestañas del dashboard:
-   📊 Resumen general
-   📈 Análisis por estudiante
-   🧠 Recomendaciones IA
+  - 📊 Resumen general
+  - 📈 Análisis por estudiante
+  - 🧠 Recomendaciones IA
 - Exportar resultados en CSV
 
 ## 📌 Instalar dependencias e iniciar

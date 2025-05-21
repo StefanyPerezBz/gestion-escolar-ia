@@ -10,7 +10,7 @@ import os
 
 # Configuración
 st.set_page_config(page_title="Gestión Escolar IA", layout="wide", page_icon="🏫")
-st.title("🏫 Sistema de Gestión Escolar con IA")
+st.title("🏫 Plataforma de Gestión Escolar con Análisis Predictivo")
 
 # Configuración de APIs
 with st.sidebar:

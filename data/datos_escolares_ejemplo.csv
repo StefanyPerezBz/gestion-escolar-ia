@@ -1,0 +1,21 @@
+Nombre,DNI,Edad,Grado,Seccion,Bim1,Bim2,Bim3,Bim4,Asistencia,Conducta,Tutor,Email,Direccion,Nota_Final,Estado
+Juan Pérez,75682867,13,2do,C,7,5,5,7,98,Bueno,Mario Pérez,juan65@gmail.com,Calle 38 Av.,6.0,Desaprobado
+María López,66755036,15,2do,B,7,7,8,5,74,Bueno,Luisa López,maría90@gmail.com,Calle 98 Jr.,6.8,Desaprobado
+Carlos Quispe,66882282,15,1ro,B,8,7,5,8,88,Excelente,Carlos Quispe,carlos68@gmail.com,Calle 11 Jr.,7.0,Desaprobado
+Ana Mendoza,31081788,17,2do,B,17,7,7,13,55,Bueno,Ana Mendoza,ana11@gmail.com,Calle 16 Jr.,11.0,Aprobado
+Luis García,23315092,17,5to,B,13,5,16,19,57,Bueno,Luis García,luis11@gmail.com,Calle 59 Av.,13.2,Aprobado
+Rosa Flores,45788921,17,2do,B,17,15,12,19,69,Excelente,Rosa Flores,rosa63@gmail.com,Calle 93 Jr.,15.8,Aprobado
+Jorge Huamán,36735830,14,4to,B,19,9,10,14,66,Bueno,Jorge Huamán,jorge96@gmail.com,Calle 59 Av.,13.0,Aprobado
+Lucía Torres,41632483,15,4to,C,17,14,15,14,81,Bueno,Lucía Torres,lucía10@gmail.com,Calle 90 Jr.,15.0,Aprobado
+Pedro Castillo,86737383,15,4to,C,5,11,7,16,87,Bueno,Pedro Castillo,pedro28@gmail.com,Calle 19 Av.,9.8,Desaprobado
+Carmen Ruiz,98358551,12,4to,B,13,14,5,17,61,Bueno,Carmen Ruiz,carmen11@gmail.com,Calle 71 Av.,12.2,Aprobado
+Miguel Vargas,98409749,14,5to,C,11,13,7,7,65,Bueno,Miguel Vargas,miguel62@gmail.com,Calle 33 Av.,9.5,Desaprobado
+Sofía Castro,14981505,16,3ro,A,13,16,9,19,87,Excelente,Sofía Castro,sofía53@gmail.com,Calle 39 Jr.,14.2,Aprobado
+Ricardo Rojas,23953367,14,1ro,B,12,11,19,11,87,Bueno,Ricardo Rojas,ricardo41@gmail.com,Calle 1 Jr.,13.2,Aprobado
+Elena Medina,95652971,16,4to,A,5,13,18,5,79,Bueno,Elena Medina,elena79@gmail.com,Calle 57 Av.,10.2,Desaprobado
+Fernando Paredes,14521373,12,2do,A,16,12,7,8,89,Bueno,Fernando Paredes,fernando41@gmail.com,Calle 23 Jr.,10.8,Desaprobado
+Daniela Salazar,13344769,13,4to,B,12,16,5,17,70,Excelente,Daniela Salazar,daniela77@gmail.com,Calle 42 Av.,12.5,Aprobado
+Roberto Gómez,86893497,15,2do,C,12,6,9,8,87,Bueno,Roberto Gómez,roberto64@gmail.com,Calle 16 Jr.,8.8,Desaprobado
+Patricia Herrera,40349564,12,2do,A,19,5,14,18,84,Bueno,Patricia Herrera,patricia84@gmail.com,Calle 60 Av.,14.0,Aprobado
+José Alvarez,52860080,15,4to,B,15,11,11,9,98,Bueno,José Alvarez,josé65@gmail.com,Calle 1 Av.,11.5,Aprobado
+Laura Cordero,87751354,17,5to,A,7,11,19,11,92,Regular,Laura Cordero,laura26@gmail.com,Calle 12 Jr.,12.0,Aprobado

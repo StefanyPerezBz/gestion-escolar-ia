@@ -10,7 +10,7 @@ from io import BytesIO
 
 # Configuración de la página
 st.set_page_config(
-    page_title="Sistema Escolar MINEDU",
+    page_title="Sistema Escolar con IA",
     page_icon="🏫",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -112,7 +112,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # --- Cabecera ---
-st.markdown('<div class="header">📊 Sistema de Gestión Escolar MINEDU</div>', unsafe_allow_html=True)
+st.markdown('<div class="header">📊 Sistema de Gestión Escolar con IA</div>', unsafe_allow_html=True)
 st.caption("Herramienta para el seguimiento académico según normas del Ministerio de Educación del Perú")
 
 # --- Variables de sesión ---
@@ -720,7 +720,7 @@ if st.session_state.df is not None:
             # Leyenda del gráfico
             st.markdown("""
             <div class="legend">
-                <h4>📌 Escala de Letras MINEDU:</h4>
+                <h4>📌 Escala de Letras:</h4>
                 <table style="width:100%">
                     <tr>
                         <td><span style="color:#2E7D32;font-weight:bold;">AD (18-20):</span></td>
